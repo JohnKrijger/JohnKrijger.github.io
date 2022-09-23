@@ -29,7 +29,7 @@ Trailer by Faris van Hien\
 Music by Kasper Nooteboom\
 Game created in collaboration with Deborah van den Berg, Faris van Hien, Nikita Janse, Zoey Könings, Kasper Nooteboom, Nathan Oerlemans, Luciano Platjouw, Calvin Poleij, Pepijn Thijssens, Janey van Trigt and Bart Wijgers
 
-Personal responsibilities:\
+Personal responsibilities:  
 - Game Design (shared responsibility)
 - Deveopment of several systems, such as rooms and UI
 - Scrum Master for the second half of the project
@@ -51,7 +51,7 @@ This project took 12 weeks. This game was made in Unity3D and uses Valve's OpenV
 Trailer by Myrna Min\
 Game created in collaboration with Anne van Ede, Mana Kouwenberg, Myrna Min and Amalia Vornicu
 
-Personal responsibilities:\
+Personal responsibilities:  
 - Game Design (shared responsibility)
 - Wiring the LEDs and gates of the physical maze to an Arduino
 - Development of several systems, such as the maze Arduino, sommunication between Unity3D and both Arduinos and the movement of the VR player.
@@ -70,6 +70,6 @@ This project took 10 weeks. This game was made in Unity3D with use of C#.
 Trailer by Gijs Nikkels\
 Game in collaboration with Anne van Ede, Rob van Heijst, Steven Jaspersen, Gijs Nikkels, Lukas Pape and Elwin Roebroek
 
-Personal responsibilities:\
+Personal responsibilities:  
 - Game Design (shared responsibility)
 - Development of enemy behaviour
