@@ -1,4 +1,6 @@
-# Master's Thesis: Improving Curve Arrangements through Local Changes
+# Portfolio
+
+## Master's Thesis: Improving Curve Arrangements through Local Changes
 <iframe width="560" height="315"
 src="https://youtube.com/embed/X_3Y3qNJ7s8" 
 frameborder="0" 
@@ -14,7 +16,7 @@ This thesis was supervised by Maarten Löffler and Frank Staals.
 
 My full thesis can be found at [here](https://studenttheses.uu.nl/handle/20.500.12932/42727).
 
-# Hotel Pluhz
+## Hotel Pluhz
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/ee7AyfBu_Hc" 
 frameborder="0" 
@@ -34,10 +36,10 @@ Personal responsibilities:
 - Deveopment of several systems, such as rooms and UI
 - Scrum Master for the second half of the project
 
-Android download (without online functionality) available via [the Google Play Store](https://play.google.com/store/apps/details?id=com.pluhz.hotel_pluhz).\
+Android download (without online functionality) available via the [Google Play Store](https://play.google.com/store/apps/details?id=com.pluhz.hotel_pluhz).\
 ©Copyright Utrecht University (Department of Information and Computing Sciences)
 
-# Let Me Help
+## Let Me Help
 <iframe width="560" height="315"
 src="https://youtube.com/embed/LMPCoiNkpgQ" 
 frameborder="0" 
@@ -56,19 +58,19 @@ Personal responsibilities:
 - Wiring the LEDs and gates of the physical maze to an Arduino
 - Development of several systems, such as the maze Arduino, sommunication between Unity3D and both Arduinos and the movement of the VR player.
 
-# A_Spook_Alypse
+## A_Spook_Alypse
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/YThUUhAuPxM" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-A_Spook_Alypse is a reimagining of Pac-Man we developed for our Introduction Project during my bachelor Computer Science/Game Technology at Utrecht University. The player has to exterminate four Spookiemonsters from an abandoned city by stunning them with collected cookies and trapping them in vacuum bags.
+A_Spook_Alypse is a first-person reimagining of Pac-Man we developed for our Introduction Project during my bachelor Computer Science/Game Technology at Utrecht University. The player has to exterminate four Spookiemonsters from an abandoned city by stunning them with collected cookies and trapping them in vacuum bags.
 
 This project took 10 weeks. This game was made in Unity3D with use of C#.
 
 Trailer by Gijs Nikkels\
-Game in collaboration with Anne van Ede, Rob van Heijst, Steven Jaspersen, Gijs Nikkels, Lukas Pape and Elwin Roebroek
+Game created in collaboration with Anne van Ede, Rob van Heijst, Steven Jaspersen, Gijs Nikkels, Lukas Pape and Elwin Roebroek
 
 Personal responsibilities:  
 - Game Design (shared responsibility)
